@@ -1,1 +1,1 @@
-# data-science-playbook
+# intelligent machines
